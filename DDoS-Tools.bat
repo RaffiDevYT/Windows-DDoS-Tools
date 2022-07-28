@@ -40,18 +40,18 @@ echo                    `
 echo [40;34m                      +.`/`                 
 echo [40;34m                .   `  yo-h:                    [DDoS[40;37m@[40;34mattack]
 echo [40;34m          /+/omhomh+-smohh-                     [40;32m--------------------
-echo [40;34m       :+oyNNNNNNNNNNNNNdmNy-                   [*][40;37mAuthor : ~ R.Code
+echo [40;34m       :+oyNNNNNNNNNNNNNdmNy-                   [*][40;37mAuthor : RaffiDev
 echo [40;34m      `+mNNNmy++//+shmNNNNNNNh:                 [*][40;37mType : Ddos Attack         
-echo [40;34m     -yNNNd:         `:ymNNNNmmh.               [*][40;37mTeam : InCode Team
+echo [40;34m     -yNNNd:         `:ymNNNNmmh.               [*][40;37mTeam : Stromz Team
 echo [40;34m     :mNNN-             .sNNNmsdd-              [*][40;37mOperating System : %os%
 echo [40;34m    `/hNNN`               :dNNNNNm-             [*][40;37mPC Name : %computername%
 echo [40;34m      `mmNNy`                -odNNNo`           [*][40;37mUsername : %username%
 echo [40;34m      `.:NNNd/                  :hNNmo-         [*][40;37mDate : %date%
 echo [40;34m         o/ymNdo.                 oNNm:         [40;32m--------------------
 echo [40;34m            `/ymNds:`             :h+.          [use this tool well]
-echo [40;34m                -+sdNds/`                       [-][40;37mInfo Author :
-echo [40;34m                    `:odmy:                     [+][40;37mContact : +62 821-7493-5446  
-echo [40;34m                        .+dh.                   [+][40;37mEmail : rcode360@gmail.com
+echo [40;34m                -+sdNds/`                       [-][40;37mInfo Author : RaffiDev
+echo [40;34m                    `:odmy:                     [+][40;37mContact :   
+echo [40;34m                        .+dh.                   [+][40;37mEmail : raffidevyt@gmail.com
 echo [40;34m                           /d-                  
 echo [40;34m                            .h                    [41;37m  [46;37m  [43;37m  [44;37m  [45;37m  [44;37m  [47;37m  
 echo [40;34m                             :            	[46;37m  [41;37m  [46;37m  [43;37m  [44;37m  [45;37m  [44;37m  [47;37m  
